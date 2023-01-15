@@ -32,10 +32,10 @@ export const RootNavigator = () => {
             ),
           })}
         />
-        {/*<Stack.Screen name={'Home'} component={HomeScreen} />*/}
         <Stack.Screen
           name={'BottomTabNavigator'}
           component={BottomTabNavigator}
+          options={{headerShown: false}}
         />
       </Stack.Navigator>
     </NavigationContainer>
