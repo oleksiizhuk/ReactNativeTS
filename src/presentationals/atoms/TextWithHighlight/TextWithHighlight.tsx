@@ -11,27 +11,18 @@ export const TextWithHighlight = memo<TextWithHighlightProps>(
     const textChunks = useMemo(() => {
       return highlightAll(text, textToHighlight);
     }, [text, textToHighlight]);
-    // const textChunks2 = useMemo(() => {
-    //   return highlightAll(text, [1, 2]);
-    // }, [text]);
-
-    // console.log('textChunks = ', textChunks2);
-    // console.log('textChunks = ', textChunks);
-    // const test = 'const a = 11;' + 'const b = 12';
-    // console.log(test.split(' '));
-    // console.log(test.split(' ').indexOf('const'));
 
     return (
       <Text style={[styles.textStyle, textStyle]}>
-        {textChunks.map(({text, highlight}, index) =>
+        {textChunks.map(({text: textString, highlight}, index) =>
           highlight ? (
             <Text
-              key={index.toString()}
+              key={textString + index}
               style={[styles.constHighlightStyle, highlightStyle]}>
-              {text}
+              {textString}
             </Text>
           ) : (
-            <Text style={styles.defaultText}>{text}</Text>
+            <Text style={styles.defaultText}>{textString}</Text>
           ),
         )}
       </Text>

@@ -14,7 +14,7 @@ export const EnumTemplate = () => {
       <Title title={'TypeScript Enums: '} />
       <Divider />
       <Description
-        style={{marginTop: 12, marginBottom: 12}}
+        style={styles.descriptionStyle}
         description={
           'An enum is a special "class" that represents a group of constants (unchangeable variables).\n' +
           'Enums come in two flavors string and numeric. Lets start with numeric.'
@@ -23,7 +23,7 @@ export const EnumTemplate = () => {
       <Divider />
       <SubTitle
         subTitle={'1) Numeric Enums - Default'}
-        style={{marginVertical: 20}}
+        style={styles.subTitleMarginVertical}
       />
       <Description
         description={
@@ -58,7 +58,7 @@ export const EnumTemplate = () => {
       />
       <SubTitle
         subTitle={'2)Numeric Enums - Fully Initialized'}
-        style={{marginTop: 20}}
+        style={styles.subTitleMarginTop}
       />
       <Description
         description={

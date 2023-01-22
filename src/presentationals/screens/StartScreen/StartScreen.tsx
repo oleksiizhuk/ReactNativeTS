@@ -5,6 +5,5 @@ import {useStartData} from './hook';
 export const StartScreen = () => {
   const {navigateToHome} = useStartData();
 
-  console.log(navigateToHome);
   return <StartTemplate navigateToHome={navigateToHome} />;
 };

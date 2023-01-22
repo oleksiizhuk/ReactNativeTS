@@ -6,11 +6,12 @@ import BottomTabNavigator from './BottomTabNavigator';
 import {GenericScreen} from '../presentationals/screens/TypeScriptScreens/GenericScreen';
 import {EnumScreen} from '../presentationals/screens/TypeScriptScreens/EnumScreen';
 import {HeaderButton} from '../presentationals/atoms/HeaderButton/HeaderButton';
+import {TypeOfScreen} from '../presentationals/screens/TypeScriptScreens/TypeOfScreen';
+import {KeyOfScreen} from '../presentationals/screens/TypeScriptScreens/KeyOfScreen';
+
 const Stack = createNativeStackNavigator<any>();
 
 export const RootNavigator = () => {
-  // const navigation = useNavigation<any>();
-
   return (
     <NavigationContainer>
       <Stack.Navigator
@@ -37,6 +38,8 @@ export const RootNavigator = () => {
           component={BottomTabNavigator}
           options={{headerShown: false}}
         />
+        <Stack.Screen name={'TypeOfScreen'} component={TypeOfScreen} />
+        <Stack.Screen name={'KeyOfScreen'} component={KeyOfScreen} />
       </Stack.Navigator>
     </NavigationContainer>
   );
