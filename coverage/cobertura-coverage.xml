@@ -1,0 +1,1228 @@
+<?xml version="1.0" ?>
+<!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
+<coverage lines-valid="179" lines-covered="19" line-rate="0.1061" branches-valid="33" branches-covered="0" branch-rate="0" timestamp="1675687747339" complexity="0" version="0.1">
+  <sources>
+    <source>/Users/Oleksii_Zhuk1/Documents/Oleksii/Senior_study_D3/ReactNative/ReactNativeMyApp</source>
+  </sources>
+  <packages>
+    <package name="assets" line-rate="0" branch-rate="1">
+      <classes>
+        <class name="declarations.d.ts" filename="src/assets/declarations.d.ts" line-rate="1" branch-rate="1">
+          <methods>
+          </methods>
+          <lines>
+          </lines>
+        </class>
+        <class name="index.ts" filename="src/assets/index.ts" line-rate="0" branch-rate="1">
+          <methods>
+          </methods>
+          <lines>
+            <line number="1" hits="0" branch="false"/>
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="constants" line-rate="0" branch-rate="1">
+      <classes>
+        <class name="constants.ts" filename="src/constants/constants.ts" line-rate="0" branch-rate="1">
+          <methods>
+          </methods>
+          <lines>
+            <line number="3" hits="0" branch="false"/>
+            <line number="4" hits="0" branch="false"/>
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="navigation" line-rate="0" branch-rate="1">
+      <classes>
+        <class name="BottomTabNavigator.tsx" filename="src/navigation/BottomTabNavigator.tsx" line-rate="0" branch-rate="1">
+          <methods>
+            <method name="BottomTabNavigator" hits="0" signature="()V">
+              <lines>
+                <line number="10" hits="0"/>
+              </lines>
+            </method>
+            <method name="(anonymous_1)" hits="0" signature="()V">
+              <lines>
+                <line number="13" hits="0"/>
+              </lines>
+            </method>
+            <method name="(anonymous_2)" hits="0" signature="()V">
+              <lines>
+                <line number="20" hits="0"/>
+              </lines>
+            </method>
+            <method name="(anonymous_3)" hits="0" signature="()V">
+              <lines>
+                <line number="21" hits="0"/>
+              </lines>
+            </method>
+            <method name="(anonymous_4)" hits="0" signature="()V">
+              <lines>
+                <line number="23" hits="0"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="8" hits="0" branch="false"/>
+            <line number="11" hits="0" branch="false"/>
+            <line number="14" hits="0" branch="false"/>
+            <line number="15" hits="0" branch="false"/>
+            <line number="21" hits="0" branch="false"/>
+            <line number="24" hits="0" branch="false"/>
+          </lines>
+        </class>
+        <class name="RootNavigator.tsx" filename="src/navigation/RootNavigator.tsx" line-rate="0" branch-rate="1">
+          <methods>
+            <method name="(anonymous_0)" hits="0" signature="()V">
+              <lines>
+                <line number="14" hits="0"/>
+              </lines>
+            </method>
+            <method name="(anonymous_1)" hits="0" signature="()V">
+              <lines>
+                <line number="26" hits="0"/>
+              </lines>
+            </method>
+            <method name="(anonymous_2)" hits="0" signature="()V">
+              <lines>
+                <line number="28" hits="0"/>
+              </lines>
+            </method>
+            <method name="(anonymous_3)" hits="0" signature="()V">
+              <lines>
+                <line number="31" hits="0"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="12" hits="0" branch="false"/>
+            <line number="14" hits="0" branch="false"/>
+            <line number="15" hits="0" branch="false"/>
+            <line number="26" hits="0" branch="false"/>
+            <line number="29" hits="0" branch="false"/>
+            <line number="31" hits="0" branch="false"/>
+          </lines>
+        </class>
+        <class name="index.ts" filename="src/navigation/index.ts" line-rate="1" branch-rate="1">
+          <methods>
+          </methods>
+          <lines>
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="presentationals.atoms.Description" line-rate="0" branch-rate="1">
+      <classes>
+        <class name="Descrption.tsx" filename="src/presentationals/atoms/Description/Descrption.tsx" line-rate="0" branch-rate="1">
+          <methods>
+            <method name="(anonymous_0)" hits="0" signature="()V">
+              <lines>
+                <line number="7" hits="0"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="6" hits="0" branch="false"/>
+            <line number="8" hits="0" branch="false"/>
+            <line number="9" hits="0" branch="false"/>
+          </lines>
+        </class>
+        <class name="index.ts" filename="src/presentationals/atoms/Description/index.ts" line-rate="1" branch-rate="1">
+          <methods>
+          </methods>
+          <lines>
+          </lines>
+        </class>
+        <class name="styles.ts" filename="src/presentationals/atoms/Description/styles.ts" line-rate="0" branch-rate="1">
+          <methods>
+            <method name="(anonymous_0)" hits="0" signature="()V">
+              <lines>
+                <line number="3" hits="0"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="3" hits="0" branch="false"/>
+            <line number="4" hits="0" branch="false"/>
+          </lines>
+        </class>
+        <class name="types.ts" filename="src/presentationals/atoms/Description/types.ts" line-rate="1" branch-rate="1">
+          <methods>
+          </methods>
+          <lines>
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="presentationals.atoms.Divider" line-rate="0" branch-rate="1">
+      <classes>
+        <class name="Divider.tsx" filename="src/presentationals/atoms/Divider/Divider.tsx" line-rate="0" branch-rate="1">
+          <methods>
+            <method name="(anonymous_0)" hits="0" signature="()V">
+              <lines>
+                <line number="5" hits="0"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="5" hits="0" branch="false"/>
+            <line number="6" hits="0" branch="false"/>
+            <line number="7" hits="0" branch="false"/>
+          </lines>
+        </class>
+        <class name="index.ts" filename="src/presentationals/atoms/Divider/index.ts" line-rate="1" branch-rate="1">
+          <methods>
+          </methods>
+          <lines>
+          </lines>
+        </class>
+        <class name="styles.ts" filename="src/presentationals/atoms/Divider/styles.ts" line-rate="0" branch-rate="1">
+          <methods>
+            <method name="(anonymous_0)" hits="0" signature="()V">
+              <lines>
+                <line number="3" hits="0"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="3" hits="0" branch="false"/>
+            <line number="4" hits="0" branch="false"/>
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="presentationals.atoms.HeaderButton" line-rate="0" branch-rate="0">
+      <classes>
+        <class name="HeaderButton.tsx" filename="src/presentationals/atoms/HeaderButton/HeaderButton.tsx" line-rate="0" branch-rate="0">
+          <methods>
+            <method name="(anonymous_0)" hits="0" signature="()V">
+              <lines>
+                <line number="13" hits="0"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="12" hits="0" branch="false"/>
+            <line number="14" hits="0" branch="false"/>
+            <line number="16" hits="0" branch="false"/>
+          </lines>
+        </class>
+        <class name="index.tsx" filename="src/presentationals/atoms/HeaderButton/index.tsx" line-rate="1" branch-rate="1">
+          <methods>
+          </methods>
+          <lines>
+          </lines>
+        </class>
+        <class name="styles.ts" filename="src/presentationals/atoms/HeaderButton/styles.ts" line-rate="0" branch-rate="0">
+          <methods>
+            <method name="(anonymous_0)" hits="0" signature="()V">
+              <lines>
+                <line number="4" hits="0"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="4" hits="0" branch="false"/>
+            <line number="5" hits="0" branch="false"/>
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="presentationals.atoms.Icon" line-rate="0" branch-rate="1">
+      <classes>
+        <class name="Icon.tsx" filename="src/presentationals/atoms/Icon/Icon.tsx" line-rate="0" branch-rate="1">
+          <methods>
+            <method name="(anonymous_0)" hits="0" signature="()V">
+              <lines>
+                <line number="7" hits="0"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="7" hits="0" branch="false"/>
+            <line number="9" hits="0" branch="false"/>
+            <line number="10" hits="0" branch="false"/>
+          </lines>
+        </class>
+        <class name="index.ts" filename="src/presentationals/atoms/Icon/index.ts" line-rate="1" branch-rate="1">
+          <methods>
+          </methods>
+          <lines>
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="presentationals.atoms.SubTitle" line-rate="0" branch-rate="1">
+      <classes>
+        <class name="SubTitle.tsx" filename="src/presentationals/atoms/SubTitle/SubTitle.tsx" line-rate="0" branch-rate="1">
+          <methods>
+            <method name="(anonymous_0)" hits="0" signature="()V">
+              <lines>
+                <line number="6" hits="0"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="6" hits="0" branch="false"/>
+            <line number="7" hits="0" branch="false"/>
+            <line number="8" hits="0" branch="false"/>
+          </lines>
+        </class>
+        <class name="index.ts" filename="src/presentationals/atoms/SubTitle/index.ts" line-rate="1" branch-rate="1">
+          <methods>
+          </methods>
+          <lines>
+          </lines>
+        </class>
+        <class name="styles.ts" filename="src/presentationals/atoms/SubTitle/styles.ts" line-rate="0" branch-rate="1">
+          <methods>
+            <method name="(anonymous_0)" hits="0" signature="()V">
+              <lines>
+                <line number="3" hits="0"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="3" hits="0" branch="false"/>
+            <line number="4" hits="0" branch="false"/>
+          </lines>
+        </class>
+        <class name="types.ts" filename="src/presentationals/atoms/SubTitle/types.ts" line-rate="1" branch-rate="1">
+          <methods>
+          </methods>
+          <lines>
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="presentationals.atoms.TabBar" line-rate="0" branch-rate="1">
+      <classes>
+        <class name="TabBar.tsx" filename="src/presentationals/atoms/TabBar/TabBar.tsx" line-rate="0" branch-rate="1">
+          <methods>
+            <method name="(anonymous_0)" hits="0" signature="()V">
+              <lines>
+                <line number="6" hits="0"/>
+              </lines>
+            </method>
+            <method name="(anonymous_1)" hits="0" signature="()V">
+              <lines>
+                <line number="12" hits="0"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="6" hits="0" branch="false"/>
+            <line number="7" hits="0" branch="false"/>
+            <line number="8" hits="0" branch="false"/>
+            <line number="12" hits="0" branch="false"/>
+          </lines>
+        </class>
+        <class name="index.ts" filename="src/presentationals/atoms/TabBar/index.ts" line-rate="1" branch-rate="1">
+          <methods>
+          </methods>
+          <lines>
+          </lines>
+        </class>
+        <class name="styles.ts" filename="src/presentationals/atoms/TabBar/styles.ts" line-rate="0" branch-rate="1">
+          <methods>
+            <method name="(anonymous_0)" hits="0" signature="()V">
+              <lines>
+                <line number="3" hits="0"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="3" hits="0" branch="false"/>
+            <line number="4" hits="0" branch="false"/>
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="presentationals.atoms.TextWithHighlight" line-rate="0" branch-rate="0">
+      <classes>
+        <class name="TextWithHighlight.tsx" filename="src/presentationals/atoms/TextWithHighlight/TextWithHighlight.tsx" line-rate="0" branch-rate="0">
+          <methods>
+            <method name="(anonymous_0)" hits="0" signature="()V">
+              <lines>
+                <line number="8" hits="0"/>
+              </lines>
+            </method>
+            <method name="(anonymous_1)" hits="0" signature="()V">
+              <lines>
+                <line number="11" hits="0"/>
+              </lines>
+            </method>
+            <method name="(anonymous_2)" hits="0" signature="()V">
+              <lines>
+                <line number="17" hits="0"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="7" hits="0" branch="false"/>
+            <line number="9" hits="0" branch="false"/>
+            <line number="11" hits="0" branch="false"/>
+            <line number="12" hits="0" branch="false"/>
+            <line number="15" hits="0" branch="false"/>
+            <line number="18" hits="0" branch="true" condition-coverage="0% (0/2)"/>
+          </lines>
+        </class>
+        <class name="index.ts" filename="src/presentationals/atoms/TextWithHighlight/index.ts" line-rate="1" branch-rate="1">
+          <methods>
+          </methods>
+          <lines>
+          </lines>
+        </class>
+        <class name="styles.ts" filename="src/presentationals/atoms/TextWithHighlight/styles.ts" line-rate="0" branch-rate="1">
+          <methods>
+            <method name="(anonymous_0)" hits="0" signature="()V">
+              <lines>
+                <line number="3" hits="0"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="3" hits="0" branch="false"/>
+            <line number="4" hits="0" branch="false"/>
+          </lines>
+        </class>
+        <class name="types.ts" filename="src/presentationals/atoms/TextWithHighlight/types.ts" line-rate="1" branch-rate="1">
+          <methods>
+          </methods>
+          <lines>
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="presentationals.atoms.Title" line-rate="1" branch-rate="1">
+      <classes>
+        <class name="Title.tsx" filename="src/presentationals/atoms/Title/Title.tsx" line-rate="1" branch-rate="1">
+          <methods>
+            <method name="(anonymous_0)" hits="2" signature="()V">
+              <lines>
+                <line number="6" hits="2"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="6" hits="1" branch="false"/>
+            <line number="7" hits="2" branch="false"/>
+            <line number="8" hits="2" branch="false"/>
+          </lines>
+        </class>
+        <class name="index.ts" filename="src/presentationals/atoms/Title/index.ts" line-rate="1" branch-rate="1">
+          <methods>
+          </methods>
+          <lines>
+          </lines>
+        </class>
+        <class name="styles.ts" filename="src/presentationals/atoms/Title/styles.ts" line-rate="1" branch-rate="1">
+          <methods>
+            <method name="(anonymous_0)" hits="2" signature="()V">
+              <lines>
+                <line number="3" hits="2"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="3" hits="1" branch="false"/>
+            <line number="4" hits="2" branch="false"/>
+          </lines>
+        </class>
+        <class name="types.ts" filename="src/presentationals/atoms/Title/types.ts" line-rate="1" branch-rate="1">
+          <methods>
+          </methods>
+          <lines>
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="presentationals.organisms.CodeBlock" line-rate="0" branch-rate="0">
+      <classes>
+        <class name="CodeBlockOrganism.tsx" filename="src/presentationals/organisms/CodeBlock/CodeBlockOrganism.tsx" line-rate="0" branch-rate="0">
+          <methods>
+            <method name="(anonymous_0)" hits="0" signature="()V">
+              <lines>
+                <line number="7" hits="0"/>
+              </lines>
+            </method>
+            <method name="(anonymous_1)" hits="0" signature="()V">
+              <lines>
+                <line number="16" hits="0"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="7" hits="0" branch="false"/>
+            <line number="11" hits="0" branch="false"/>
+            <line number="12" hits="0" branch="false"/>
+            <line number="17" hits="0" branch="false"/>
+          </lines>
+        </class>
+        <class name="index.ts" filename="src/presentationals/organisms/CodeBlock/index.ts" line-rate="1" branch-rate="1">
+          <methods>
+          </methods>
+          <lines>
+          </lines>
+        </class>
+        <class name="styles.ts" filename="src/presentationals/organisms/CodeBlock/styles.ts" line-rate="0" branch-rate="1">
+          <methods>
+            <method name="(anonymous_0)" hits="0" signature="()V">
+              <lines>
+                <line number="3" hits="0"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="3" hits="0" branch="false"/>
+            <line number="4" hits="0" branch="false"/>
+          </lines>
+        </class>
+        <class name="types.ts" filename="src/presentationals/organisms/CodeBlock/types.ts" line-rate="1" branch-rate="1">
+          <methods>
+          </methods>
+          <lines>
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="presentationals.screens.Home" line-rate="1" branch-rate="1">
+      <classes>
+        <class name="HomeScreen.tsx" filename="src/presentationals/screens/Home/HomeScreen.tsx" line-rate="1" branch-rate="1">
+          <methods>
+            <method name="(anonymous_0)" hits="1" signature="()V">
+              <lines>
+                <line number="5" hits="1"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="5" hits="1" branch="false"/>
+            <line number="6" hits="1" branch="false"/>
+            <line number="7" hits="1" branch="false"/>
+          </lines>
+        </class>
+        <class name="index.ts" filename="src/presentationals/screens/Home/index.ts" line-rate="1" branch-rate="1">
+          <methods>
+          </methods>
+          <lines>
+          </lines>
+        </class>
+        <class name="types.ts" filename="src/presentationals/screens/Home/types.ts" line-rate="1" branch-rate="1">
+          <methods>
+          </methods>
+          <lines>
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="presentationals.screens.Home.hook" line-rate="1" branch-rate="1">
+      <classes>
+        <class name="index.ts" filename="src/presentationals/screens/Home/hook/index.ts" line-rate="1" branch-rate="1">
+          <methods>
+          </methods>
+          <lines>
+          </lines>
+        </class>
+        <class name="useHomeData.ts" filename="src/presentationals/screens/Home/hook/useHomeData.ts" line-rate="1" branch-rate="1">
+          <methods>
+            <method name="(anonymous_0)" hits="3" signature="()V">
+              <lines>
+                <line number="4" hits="3"/>
+              </lines>
+            </method>
+            <method name="(anonymous_1)" hits="1" signature="()V">
+              <lines>
+                <line number="7" hits="1"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="4" hits="2" branch="false"/>
+            <line number="5" hits="3" branch="false"/>
+            <line number="7" hits="3" branch="false"/>
+            <line number="8" hits="1" branch="false"/>
+            <line number="10" hits="3" branch="false"/>
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="presentationals.screens.StartScreen" line-rate="0" branch-rate="1">
+      <classes>
+        <class name="StartScreen.tsx" filename="src/presentationals/screens/StartScreen/StartScreen.tsx" line-rate="0" branch-rate="1">
+          <methods>
+            <method name="(anonymous_0)" hits="0" signature="()V">
+              <lines>
+                <line number="5" hits="0"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="5" hits="0" branch="false"/>
+            <line number="6" hits="0" branch="false"/>
+            <line number="8" hits="0" branch="false"/>
+          </lines>
+        </class>
+        <class name="index.ts" filename="src/presentationals/screens/StartScreen/index.ts" line-rate="1" branch-rate="1">
+          <methods>
+          </methods>
+          <lines>
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="presentationals.screens.StartScreen.hook" line-rate="0" branch-rate="1">
+      <classes>
+        <class name="index.ts" filename="src/presentationals/screens/StartScreen/hook/index.ts" line-rate="1" branch-rate="1">
+          <methods>
+          </methods>
+          <lines>
+          </lines>
+        </class>
+        <class name="useStartData.ts" filename="src/presentationals/screens/StartScreen/hook/useStartData.ts" line-rate="0" branch-rate="1">
+          <methods>
+            <method name="(anonymous_0)" hits="0" signature="()V">
+              <lines>
+                <line number="4" hits="0"/>
+              </lines>
+            </method>
+            <method name="(anonymous_1)" hits="0" signature="()V">
+              <lines>
+                <line number="7" hits="0"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="4" hits="0" branch="false"/>
+            <line number="5" hits="0" branch="false"/>
+            <line number="7" hits="0" branch="false"/>
+            <line number="8" hits="0" branch="false"/>
+            <line number="11" hits="0" branch="false"/>
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="presentationals.screens.TypeScript" line-rate="0" branch-rate="1">
+      <classes>
+        <class name="TypeScriptScreen.tsx" filename="src/presentationals/screens/TypeScript/TypeScriptScreen.tsx" line-rate="0" branch-rate="1">
+          <methods>
+            <method name="(anonymous_0)" hits="0" signature="()V">
+              <lines>
+                <line number="5" hits="0"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="5" hits="0" branch="false"/>
+            <line number="6" hits="0" branch="false"/>
+            <line number="7" hits="0" branch="false"/>
+          </lines>
+        </class>
+        <class name="index.ts" filename="src/presentationals/screens/TypeScript/index.ts" line-rate="1" branch-rate="1">
+          <methods>
+          </methods>
+          <lines>
+          </lines>
+        </class>
+        <class name="types.ts" filename="src/presentationals/screens/TypeScript/types.ts" line-rate="1" branch-rate="1">
+          <methods>
+          </methods>
+          <lines>
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="presentationals.screens.TypeScript.hook" line-rate="0" branch-rate="1">
+      <classes>
+        <class name="useTypeScriptData.ts" filename="src/presentationals/screens/TypeScript/hook/useTypeScriptData.ts" line-rate="0" branch-rate="1">
+          <methods>
+            <method name="(anonymous_0)" hits="0" signature="()V">
+              <lines>
+                <line number="1" hits="0"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="1" hits="0" branch="false"/>
+            <line number="2" hits="0" branch="false"/>
+            <line number="9" hits="0" branch="false"/>
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="presentationals.screens.TypeScriptScreens.EnumScreen" line-rate="0" branch-rate="1">
+      <classes>
+        <class name="EnumScreen.tsx" filename="src/presentationals/screens/TypeScriptScreens/EnumScreen/EnumScreen.tsx" line-rate="0" branch-rate="1">
+          <methods>
+            <method name="(anonymous_0)" hits="0" signature="()V">
+              <lines>
+                <line number="4" hits="0"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="4" hits="0" branch="false"/>
+            <line number="5" hits="0" branch="false"/>
+            <line number="6" hits="0" branch="false"/>
+          </lines>
+        </class>
+        <class name="index.ts" filename="src/presentationals/screens/TypeScriptScreens/EnumScreen/index.ts" line-rate="1" branch-rate="1">
+          <methods>
+          </methods>
+          <lines>
+          </lines>
+        </class>
+        <class name="styles.ts" filename="src/presentationals/screens/TypeScriptScreens/EnumScreen/styles.ts" line-rate="0" branch-rate="1">
+          <methods>
+            <method name="(anonymous_0)" hits="0" signature="()V">
+              <lines>
+                <line number="3" hits="0"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="3" hits="0" branch="false"/>
+            <line number="4" hits="0" branch="false"/>
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="presentationals.screens.TypeScriptScreens.EnumScreen.hook" line-rate="0" branch-rate="1">
+      <classes>
+        <class name="useEnum.ts" filename="src/presentationals/screens/TypeScriptScreens/EnumScreen/hook/useEnum.ts" line-rate="0" branch-rate="1">
+          <methods>
+            <method name="(anonymous_0)" hits="0" signature="()V">
+              <lines>
+                <line number="1" hits="0"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="1" hits="0" branch="false"/>
+            <line number="8" hits="0" branch="false"/>
+            <line number="9" hits="0" branch="false"/>
+            <line number="11" hits="0" branch="false"/>
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="presentationals.screens.TypeScriptScreens.GenericScreen" line-rate="0" branch-rate="1">
+      <classes>
+        <class name="GenericScreen.tsx" filename="src/presentationals/screens/TypeScriptScreens/GenericScreen/GenericScreen.tsx" line-rate="0" branch-rate="1">
+          <methods>
+            <method name="(anonymous_0)" hits="0" signature="()V">
+              <lines>
+                <line number="4" hits="0"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="4" hits="0" branch="false"/>
+            <line number="5" hits="0" branch="false"/>
+          </lines>
+        </class>
+        <class name="index.ts" filename="src/presentationals/screens/TypeScriptScreens/GenericScreen/index.ts" line-rate="1" branch-rate="1">
+          <methods>
+          </methods>
+          <lines>
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="presentationals.screens.TypeScriptScreens.GenericScreen.hool" line-rate="0" branch-rate="1">
+      <classes>
+        <class name="useGenericData.ts" filename="src/presentationals/screens/TypeScriptScreens/GenericScreen/hool/useGenericData.ts" line-rate="0" branch-rate="1">
+          <methods>
+            <method name="(anonymous_0)" hits="0" signature="()V">
+              <lines>
+                <line number="1" hits="0"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="1" hits="0" branch="false"/>
+            <line number="2" hits="0" branch="false"/>
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="presentationals.screens.TypeScriptScreens.KeyOfScreen" line-rate="0" branch-rate="1">
+      <classes>
+        <class name="KeyOfScreen.tsx" filename="src/presentationals/screens/TypeScriptScreens/KeyOfScreen/KeyOfScreen.tsx" line-rate="0" branch-rate="1">
+          <methods>
+            <method name="(anonymous_0)" hits="0" signature="()V">
+              <lines>
+                <line number="5" hits="0"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="5" hits="0" branch="false"/>
+            <line number="6" hits="0" branch="false"/>
+            <line number="7" hits="0" branch="false"/>
+          </lines>
+        </class>
+        <class name="index.ts" filename="src/presentationals/screens/TypeScriptScreens/KeyOfScreen/index.ts" line-rate="1" branch-rate="1">
+          <methods>
+          </methods>
+          <lines>
+          </lines>
+        </class>
+        <class name="style.ts" filename="src/presentationals/screens/TypeScriptScreens/KeyOfScreen/style.ts" line-rate="0" branch-rate="1">
+          <methods>
+            <method name="(anonymous_0)" hits="0" signature="()V">
+              <lines>
+                <line number="3" hits="0"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="3" hits="0" branch="false"/>
+            <line number="4" hits="0" branch="false"/>
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="presentationals.screens.TypeScriptScreens.TypeOfScreen" line-rate="0" branch-rate="1">
+      <classes>
+        <class name="TypeOfScreen.tsx" filename="src/presentationals/screens/TypeScriptScreens/TypeOfScreen/TypeOfScreen.tsx" line-rate="0" branch-rate="1">
+          <methods>
+            <method name="(anonymous_0)" hits="0" signature="()V">
+              <lines>
+                <line number="4" hits="0"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="4" hits="0" branch="false"/>
+            <line number="5" hits="0" branch="false"/>
+            <line number="6" hits="0" branch="false"/>
+          </lines>
+        </class>
+        <class name="index.ts" filename="src/presentationals/screens/TypeScriptScreens/TypeOfScreen/index.ts" line-rate="1" branch-rate="1">
+          <methods>
+          </methods>
+          <lines>
+          </lines>
+        </class>
+        <class name="style.ts" filename="src/presentationals/screens/TypeScriptScreens/TypeOfScreen/style.ts" line-rate="0" branch-rate="1">
+          <methods>
+            <method name="(anonymous_0)" hits="0" signature="()V">
+              <lines>
+                <line number="3" hits="0"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="3" hits="0" branch="false"/>
+            <line number="4" hits="0" branch="false"/>
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="presentationals.templates" line-rate="1" branch-rate="1">
+      <classes>
+        <class name="index.ts" filename="src/presentationals/templates/index.ts" line-rate="1" branch-rate="1">
+          <methods>
+          </methods>
+          <lines>
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="presentationals.templates.EnumTemplate" line-rate="0" branch-rate="1">
+      <classes>
+        <class name="EnumTemplate.tsx" filename="src/presentationals/templates/EnumTemplate/EnumTemplate.tsx" line-rate="0" branch-rate="1">
+          <methods>
+            <method name="(anonymous_0)" hits="0" signature="()V">
+              <lines>
+                <line number="10" hits="0"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="10" hits="0" branch="false"/>
+            <line number="11" hits="0" branch="false"/>
+            <line number="12" hits="0" branch="false"/>
+          </lines>
+        </class>
+        <class name="index.ts" filename="src/presentationals/templates/EnumTemplate/index.ts" line-rate="1" branch-rate="1">
+          <methods>
+          </methods>
+          <lines>
+          </lines>
+        </class>
+        <class name="styles.ts" filename="src/presentationals/templates/EnumTemplate/styles.ts" line-rate="0" branch-rate="1">
+          <methods>
+            <method name="(anonymous_0)" hits="0" signature="()V">
+              <lines>
+                <line number="3" hits="0"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="3" hits="0" branch="false"/>
+            <line number="4" hits="0" branch="false"/>
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="presentationals.templates.GenericTemplate" line-rate="0" branch-rate="1">
+      <classes>
+        <class name="GenericTemplate.tsx" filename="src/presentationals/templates/GenericTemplate/GenericTemplate.tsx" line-rate="0" branch-rate="1">
+          <methods>
+            <method name="(anonymous_0)" hits="0" signature="()V">
+              <lines>
+                <line number="6" hits="0"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="6" hits="0" branch="false"/>
+            <line number="7" hits="0" branch="false"/>
+            <line number="8" hits="0" branch="false"/>
+          </lines>
+        </class>
+        <class name="index.ts" filename="src/presentationals/templates/GenericTemplate/index.ts" line-rate="1" branch-rate="1">
+          <methods>
+          </methods>
+          <lines>
+          </lines>
+        </class>
+        <class name="styles.ts" filename="src/presentationals/templates/GenericTemplate/styles.ts" line-rate="0" branch-rate="1">
+          <methods>
+            <method name="(anonymous_0)" hits="0" signature="()V">
+              <lines>
+                <line number="3" hits="0"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="3" hits="0" branch="false"/>
+            <line number="4" hits="0" branch="false"/>
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="presentationals.templates.HomeTemplate" line-rate="1" branch-rate="1">
+      <classes>
+        <class name="HomeTemplate.tsx" filename="src/presentationals/templates/HomeTemplate/HomeTemplate.tsx" line-rate="1" branch-rate="1">
+          <methods>
+            <method name="(anonymous_0)" hits="1" signature="()V">
+              <lines>
+                <line number="5" hits="1"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="5" hits="1" branch="false"/>
+            <line number="6" hits="1" branch="false"/>
+          </lines>
+        </class>
+        <class name="index.ts" filename="src/presentationals/templates/HomeTemplate/index.ts" line-rate="1" branch-rate="1">
+          <methods>
+          </methods>
+          <lines>
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="presentationals.templates.StartTemplate" line-rate="0.2" branch-rate="0">
+      <classes>
+        <class name="StartTemplate.tsx" filename="src/presentationals/templates/StartTemplate/StartTemplate.tsx" line-rate="0.2" branch-rate="0">
+          <methods>
+            <method name="(anonymous_0)" hits="0" signature="()V">
+              <lines>
+                <line number="17" hits="0"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="16" hits="1" branch="false"/>
+            <line number="18" hits="0" branch="false"/>
+            <line number="20" hits="0" branch="false"/>
+            <line number="21" hits="0" branch="false"/>
+            <line number="25" hits="0" branch="false"/>
+          </lines>
+        </class>
+        <class name="index.ts" filename="src/presentationals/templates/StartTemplate/index.ts" line-rate="1" branch-rate="1">
+          <methods>
+          </methods>
+          <lines>
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="presentationals.templates.TypeScriptTemplate" line-rate="0.14279999999999998" branch-rate="1">
+      <classes>
+        <class name="TypeScriptTemplate.tsx" filename="src/presentationals/templates/TypeScriptTemplate/TypeScriptTemplate.tsx" line-rate="0.0833" branch-rate="1">
+          <methods>
+            <method name="(anonymous_0)" hits="0" signature="()V">
+              <lines>
+                <line number="13" hits="0"/>
+              </lines>
+            </method>
+            <method name="(anonymous_1)" hits="0" signature="()V">
+              <lines>
+                <line number="17" hits="0"/>
+              </lines>
+            </method>
+            <method name="(anonymous_2)" hits="0" signature="()V">
+              <lines>
+                <line number="25" hits="0"/>
+              </lines>
+            </method>
+            <method name="(anonymous_3)" hits="0" signature="()V">
+              <lines>
+                <line number="29" hits="0"/>
+              </lines>
+            </method>
+            <method name="(anonymous_4)" hits="0" signature="()V">
+              <lines>
+                <line number="49" hits="0"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="13" hits="1" branch="false"/>
+            <line number="14" hits="0" branch="false"/>
+            <line number="15" hits="0" branch="false"/>
+            <line number="16" hits="0" branch="false"/>
+            <line number="18" hits="0" branch="false"/>
+            <line number="19" hits="0" branch="false"/>
+            <line number="24" hits="0" branch="false"/>
+            <line number="26" hits="0" branch="false"/>
+            <line number="27" hits="0" branch="false"/>
+            <line number="29" hits="0" branch="false"/>
+            <line number="43" hits="0" branch="false"/>
+            <line number="49" hits="0" branch="false"/>
+          </lines>
+        </class>
+        <class name="index.ts" filename="src/presentationals/templates/TypeScriptTemplate/index.ts" line-rate="1" branch-rate="1">
+          <methods>
+          </methods>
+          <lines>
+          </lines>
+        </class>
+        <class name="styles.ts" filename="src/presentationals/templates/TypeScriptTemplate/styles.ts" line-rate="0.5" branch-rate="1">
+          <methods>
+            <method name="(anonymous_0)" hits="0" signature="()V">
+              <lines>
+                <line number="3" hits="0"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="3" hits="1" branch="false"/>
+            <line number="4" hits="0" branch="false"/>
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="services" line-rate="1" branch-rate="1">
+      <classes>
+        <class name="index.ts" filename="src/services/index.ts" line-rate="1" branch-rate="1">
+          <methods>
+          </methods>
+          <lines>
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="services.binarySearchTree" line-rate="0" branch-rate="0">
+      <classes>
+        <class name="BinarySearchTree.ts" filename="src/services/binarySearchTree/BinarySearchTree.ts" line-rate="0" branch-rate="0">
+          <methods>
+            <method name="(anonymous_0)" hits="0" signature="()V">
+              <lines>
+                <line number="6" hits="0"/>
+              </lines>
+            </method>
+            <method name="(anonymous_1)" hits="0" signature="()V">
+              <lines>
+                <line number="16" hits="0"/>
+              </lines>
+            </method>
+            <method name="(anonymous_2)" hits="0" signature="()V">
+              <lines>
+                <line number="21" hits="0"/>
+              </lines>
+            </method>
+            <method name="(anonymous_3)" hits="0" signature="()V">
+              <lines>
+                <line number="30" hits="0"/>
+              </lines>
+            </method>
+            <method name="(anonymous_4)" hits="0" signature="()V">
+              <lines>
+                <line number="46" hits="0"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="2" hits="0" branch="false"/>
+            <line number="3" hits="0" branch="false"/>
+            <line number="4" hits="0" branch="false"/>
+            <line number="7" hits="0" branch="false"/>
+            <line number="8" hits="0" branch="false"/>
+            <line number="9" hits="0" branch="false"/>
+            <line number="14" hits="0" branch="false"/>
+            <line number="18" hits="0" branch="false"/>
+            <line number="22" hits="0" branch="false"/>
+            <line number="23" hits="0" branch="true" condition-coverage="0% (0/2)"/>
+            <line number="24" hits="0" branch="false"/>
+            <line number="26" hits="0" branch="false"/>
+            <line number="31" hits="0" branch="true" condition-coverage="0% (0/2)"/>
+            <line number="32" hits="0" branch="true" condition-coverage="0% (0/2)"/>
+            <line number="33" hits="0" branch="false"/>
+            <line number="35" hits="0" branch="false"/>
+            <line number="38" hits="0" branch="true" condition-coverage="0% (0/2)"/>
+            <line number="39" hits="0" branch="false"/>
+            <line number="41" hits="0" branch="false"/>
+            <line number="47" hits="0" branch="true" condition-coverage="0% (0/2)"/>
+            <line number="48" hits="0" branch="false"/>
+            <line number="49" hits="0" branch="true" condition-coverage="0% (0/2)"/>
+            <line number="50" hits="0" branch="false"/>
+            <line number="51" hits="0" branch="true" condition-coverage="0% (0/2)"/>
+            <line number="52" hits="0" branch="false"/>
+            <line number="54" hits="0" branch="false"/>
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="services.networkService" line-rate="0" branch-rate="1">
+      <classes>
+        <class name="NetworkService.ts" filename="src/services/networkService/NetworkService.ts" line-rate="0" branch-rate="1">
+          <methods>
+            <method name="(anonymous_0)" hits="0" signature="()V">
+              <lines>
+                <line number="2" hits="0"/>
+              </lines>
+            </method>
+            <method name="(anonymous_1)" hits="0" signature="()V">
+              <lines>
+                <line number="3" hits="0"/>
+              </lines>
+            </method>
+            <method name="(anonymous_2)" hits="0" signature="()V">
+              <lines>
+                <line number="4" hits="0"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="3" hits="0" branch="false"/>
+            <line number="4" hits="0" branch="false"/>
+            <line number="5" hits="0" branch="false"/>
+          </lines>
+        </class>
+        <class name="index.ts" filename="src/services/networkService/index.ts" line-rate="1" branch-rate="1">
+          <methods>
+          </methods>
+          <lines>
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="store" line-rate="1" branch-rate="1">
+      <classes>
+        <class name="index.ts" filename="src/store/index.ts" line-rate="1" branch-rate="1">
+          <methods>
+          </methods>
+          <lines>
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="store.actions" line-rate="0" branch-rate="1">
+      <classes>
+        <class name="app.ts" filename="src/store/actions/app.ts" line-rate="0" branch-rate="1">
+          <methods>
+          </methods>
+          <lines>
+            <line number="3" hits="0" branch="false"/>
+          </lines>
+        </class>
+        <class name="index.ts" filename="src/store/actions/index.ts" line-rate="1" branch-rate="1">
+          <methods>
+          </methods>
+          <lines>
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="store.reducers.app" line-rate="0" branch-rate="1">
+      <classes>
+        <class name="app.ts" filename="src/store/reducers/app/app.ts" line-rate="0" branch-rate="1">
+          <methods>
+            <method name="(anonymous_0)" hits="0" signature="()V">
+              <lines>
+                <line number="10" hits="0"/>
+              </lines>
+            </method>
+            <method name="(anonymous_1)" hits="0" signature="()V">
+              <lines>
+                <line number="11" hits="0"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="6" hits="0" branch="false"/>
+            <line number="10" hits="0" branch="false"/>
+            <line number="11" hits="0" branch="false"/>
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="store.sagas.app" line-rate="1" branch-rate="1">
+      <classes>
+        <class name="fetchDataSaga.ts" filename="src/store/sagas/app/fetchDataSaga.ts" line-rate="1" branch-rate="1">
+          <methods>
+            <method name="fetchDataSaga" hits="0" signature="()V">
+              <lines>
+                <line number="3" hits="0"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="utils" line-rate="0.14279999999999998" branch-rate="0">
+      <classes>
+        <class name="capitalizeFirstLetter.ts" filename="src/utils/capitalizeFirstLetter.ts" line-rate="0.5" branch-rate="1">
+          <methods>
+            <method name="(anonymous_0)" hits="0" signature="()V">
+              <lines>
+                <line number="1" hits="0"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="1" hits="1" branch="false"/>
+            <line number="2" hits="0" branch="false"/>
+          </lines>
+        </class>
+        <class name="highlightAll.ts" filename="src/utils/highlightAll.ts" line-rate="0" branch-rate="0">
+          <methods>
+            <method name="highlightAll" hits="0" signature="()V">
+              <lines>
+                <line number="8" hits="0"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="12" hits="0" branch="true" condition-coverage="0% (0/4)"/>
+            <line number="13" hits="0" branch="false"/>
+            <line number="15" hits="0" branch="true" condition-coverage="0% (0/2)"/>
+            <line number="16" hits="0" branch="false"/>
+            <line number="25" hits="0" branch="false"/>
+          </lines>
+        </class>
+      </classes>
+    </package>
+  </packages>
+</coverage>
